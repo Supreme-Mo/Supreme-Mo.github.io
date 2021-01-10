@@ -1,4 +1,4 @@
 ---
 layout: index
-title: 星合の空
+title: 莫莫
 ---
