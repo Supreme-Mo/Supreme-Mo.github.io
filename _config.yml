@@ -5,9 +5,9 @@ kramdown:
 permalink: /posts/:categories/:title # 博文目录
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 
-title: wu-kan
-url: http://wu-kan.github.io
-author: WuK
+title: Supreme-Mo
+url: http://supreme-mo.github.io
+author: Mo-Mo
 
 head: # 删改前确定知道自己在做什么
 - tag: meta # Enable responsiveness on mobile devices
@@ -113,7 +113,7 @@ head: # 删改前确定知道自己在做什么
 
 body:
   theme-base: theme-base-0d # 可选的值08~0f
-  layout-reverse: true # 开启后sidebar在右边，反之左边
+  layout-reverse: false # 开启后sidebar在右边，反之左边
   sidebar-overlay: true # 开启后正文不随sidebar移动而移动
 
 script: # 需要在正文前调用的脚本或者插件的autoloader
@@ -178,9 +178,10 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br/>SYSU17级在读<br/>计科超算方向<br/>永远喜欢水野爱<br/>田宫例四驱车<br/>ASC # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+    img: //gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fd664148c150b08f5e641c9e3f94f5e39e12d4a81.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612868017&t=85f38e771ae8b19eea7296c52e6528a0 # 头像的地址
+    info: 莫莫<br/>
+          计算机在读<br/><br/><br/><br/>ASC # 头像背后的信息
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=3211733906&auto=1&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
@@ -243,7 +244,7 @@ sidebar:
   run_time:
     enable: true
     src: /public/js/run_time.js
-    start_time: '10/04/2017 11:03:56' # 这是我第一篇CSDN博客的时间
+    start_time: '1/24/2020 23:28:00' # 这是我第一篇CSDN博客的时间
     alert: <i class="fas fa-cog fa-spin fa-fw"></i>
     day: 天
     hour: 时
@@ -255,9 +256,7 @@ sidebar:
 
 index:
   showtag:
-  - 人生经验
-  - ICPC模板
-  - 水野爱
+ 
 
 post:
   meta:
