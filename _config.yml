@@ -178,7 +178,7 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fd664148c150b08f5e641c9e3f94f5e39e12d4a81.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612868017&t=85f38e771ae8b19eea7296c52e6528a0# 头像的地址
+    img: //gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fd664148c150b08f5e641c9e3f94f5e39e12d4a81.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612868017&t=85f38e771ae8b19eea7296c52e6528a0 # 头像的地址
     info: 莫莫<br/>
           计算机在读<br/><br/><br/><br/>ASC # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=3211733906&auto=1&height=32"></iframe>'
